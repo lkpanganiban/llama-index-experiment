@@ -2,3 +2,4 @@ llama_index
 pypdf
 sentence_transformers
 jupyter
+weaviate-client
