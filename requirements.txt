@@ -3,3 +3,5 @@ pypdf
 sentence_transformers
 jupyter
 weaviate-client
+llama_cpp_python
+langchain
